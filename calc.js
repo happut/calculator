@@ -3,5 +3,5 @@ function add(x, y) {
 }
 
 module.exports = {
-    addFunc = add
+    addFunc : add
 }
